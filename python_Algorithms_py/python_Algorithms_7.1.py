@@ -47,6 +47,9 @@ if __name__ == '__main__':
 
 # 예제2
 # 노드(객체)의 컨테이너로 스택 구현
+import gc         
+gc.collect()
+
 class Node(object):
     def __init__(self, value=None, pointer=None):
         self.value = value
