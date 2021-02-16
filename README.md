@@ -1,2 +1,6 @@
-# Study_Python
- Python data structure and algorithms
+# studyFiles
+## Python
+- Python data structure and algorithms
+
+## Javascript
+- Basic grammar
