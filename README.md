@@ -1,6 +1,6 @@
 # ✔️Study Files
-## Python
+## ✔️Python
 - Python data structure and algorithms
 
-## Javascript
+## ✔️Javascript
 - Basic grammar
