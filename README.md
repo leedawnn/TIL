@@ -5,6 +5,3 @@
 
 ## ✔️Javascript
 - Basic grammar
-
-## ✔️TIL
-- Today I Learned
