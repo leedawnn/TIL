@@ -1,7 +1,2 @@
-# 📚Study Files
-## ✔️Python
-- Basic grammar
-- Python data structure and algorithms
-
-## ✔️Javascript
-- Basic grammar
+# 📚TIL 
+오늘 배운 것들을 정리하여 .md형식으로 commit 합니다. 
